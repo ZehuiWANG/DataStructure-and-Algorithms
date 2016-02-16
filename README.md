@@ -1,5 +1,5 @@
-# Leetcode
-Here is my Leetcode Solution
+# DataStructure
+Love DateStructure and Alogrithms 
 
 This is a best place to learn Algorithms and DataStructure 
 
